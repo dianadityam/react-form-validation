@@ -1,0 +1,10 @@
+.errorText {
+    font-size: 12px;
+    color: red;
+    margin: 0 51px !important;
+}
+
+.invalidForm {
+    border-color: red;
+    border-width: 1px;
+}
